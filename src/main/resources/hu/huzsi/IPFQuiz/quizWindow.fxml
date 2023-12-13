@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="700.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hu.huzsi.IPFQuiz.HelloController">
+   <children>
+      <TextArea fx:id="questionsLabel" editable="false" layoutX="90.0" layoutY="54.0" prefHeight="115.0" prefWidth="521.0" style="-fx-background-color: transparent;" stylesheets="@style.css" wrapText="true">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </TextArea>
+      <VBox layoutX="90.0" layoutY="200.0" prefHeight="186.0" prefWidth="332.0" spacing="20.0">
+         <children>
+            <Button id="answ1Btn" fx:id="answ1" mnemonicParsing="false" onAction="#answ1BtnStart" prefHeight="48.0" prefWidth="339.0" stylesheets="@style.css" text="1" textFill="WHITE" wrapText="true">
+               <font>
+                  <Font size="13.0" />
+               </font></Button>
+            <Button id="answ2Btn" fx:id="answ2" mnemonicParsing="false" onAction="#answ2BtnStart" prefHeight="49.0" prefWidth="340.0" stylesheets="@style.css" text="2" textFill="WHITE" wrapText="true">
+               <font>
+                  <Font size="13.0" />
+               </font></Button>
+            <Button id="answ3Btn" fx:id="answ3" mnemonicParsing="false" onAction="#answ3BtnStart" prefHeight="50.0" prefWidth="371.0" stylesheets="@style.css" text="3" textFill="WHITE" wrapText="true">
+               <font>
+                  <Font size="13.0" />
+               </font></Button>
+         </children>
+      </VBox>
+      <Label fx:id="eredmenyLabel" layoutX="435.0" layoutY="350.0" prefHeight="36.0" prefWidth="249.0" textFill="#a8a8a8">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

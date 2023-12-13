@@ -1,0 +1,55 @@
+*{ /* Színek */
+    -fx-anchor-pane-color: #F3F8FF;
+    -fx-btn1-color: #E26EE5;
+    -fx-btn2-color: #7E30E1;
+    -fx-btn3-color: #7B66FF;
+    -fx-btn1-hover-color:#CF63D2;
+    -fx-btn2-hover-color:#8940E5;
+    -fx-btn3-hover-color:#7764ED;
+}
+
+/* Ablak */
+AnchorPane {
+    -fx-background-color: -fx-anchor-pane-color;
+}
+
+/* Gombok */
+
+.button{
+    -fx-background-radius: 15px;
+}
+
+/* A) gomb */
+
+.button#answ1Btn {
+    -fx-background-color: -fx-btn1-color;
+}
+
+.button#answ1Btn:hover {
+    -fx-background-color: -fx-btn1-hover-color;
+}
+
+/* B) gomb */
+.button#answ2Btn {
+   -fx-background-color: -fx-btn2-color;
+}
+
+.button#answ2Btn:hover {
+    -fx-background-color: -fx-btn2-hover-color;
+}
+
+/* C) gomb */
+
+.button#answ3Btn {
+    -fx-background-color: -fx-btn3-color;
+}
+
+.button#answ3Btn:hover {
+    -fx-background-color: -fx-btn3-hover-color;
+}
+
+/* Kérdések */
+
+TextArea{
+    -fx-border-color: transparent;
+}
