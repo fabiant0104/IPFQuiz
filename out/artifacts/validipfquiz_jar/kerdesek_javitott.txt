@@ -1,0 +1,15 @@
+Az ipari forradalom melyik évszázadban kezdődött?;16. század;17. század;18. század;c
+Melyik találmány volt az ipari forradalom egyik fő motorja?;Számítógép;Gőzgép;Telefongyártás;b
+Ki volt az a feltaláló, aki széles körben elterjesztette a gőzgépet?;Thomas Edison;James Watt;Alexander Graham Bell;b
+Melyik iparág volt az első, amelyikben elterjedt a gépek alkalmazása az ipari forradalom idején?;Textilipar;Élelmiszeripar;Vegyipar;a
+Melyik város volt az ipari forradalom központja Angliában?;Liverpool;Manchester;London;b
+Melyik új termelési módszer jellemző az ipari forradalomra?;Kézi munkaerő;Gyári tömeggyártás;Céhes munkaerő;b
+Mi volt az ipari forradalom hatása a vidéki területekre?;Az emberek inkább a falvakban kezdtek dolgozni;Az emberek áramlása a városok felé növekedett;A mezőgazdasági termelés megszűnt;b
+Milyen új energiahordozó jelent meg az ipari forradalom idején?;Elektromosság;Szélenergia;Szén;c
+Melyik iparág volt az első, amelyikben megjelentek a gyáripari termelési módszerek?;Ruhaipar;Építőipar;Gépipar;a
+Ki volt az a személy, aki a pamutfeldolgozás folyamatát forradalmasította az ipari forradalom idején?;Eli Whitney;Henry Ford;Samuel Morse;a
+Melyik ország volt az ipari forradalom kezdetén a vezető ipari hatalom?;Franciaország;Egyesült Királyság;Németország;b
+Mi volt az egyik legnagyobb társadalmi hatása az ipari forradalomnak?;Az arisztokrácia megerősödése;A társadalmi rétegződés csökkenése;Az iparosodás következtében új szakmák megjelenése;b
+Melyik találmány tette lehetővé az áruk gyors és olcsó szállítását a vízi útvonalakon?;Vasút;Gőzhajó;Repülőgép;b
+Melyik eszköz segített az ipari forradalomnak a kommunikációban és az információ terjedésében?;Telefon;Rádió;Televízió;a
+Melyik iparág volt az ipari forradalom során az egyik legnagyobb fejlődésnek indult?;Gyógyszeripar;Élelmiszeripar;Acélipar;c

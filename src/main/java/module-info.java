@@ -3,6 +3,6 @@ module hu.huzsi.IPFQuiz {
     requires javafx.fxml;
 
 
-    opens hu.huzsi.IPFQuiz to javafx.fxml;
-    exports hu.huzsi.IPFQuiz;
+    opens hu.huzsi.validipfquiz to javafx.fxml;
+    exports hu.huzsi.validipfquiz;
 }
